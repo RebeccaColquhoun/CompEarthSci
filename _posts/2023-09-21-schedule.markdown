@@ -1,6 +1,34 @@
 ---
 layout: post
-title:  "Schedule"
+title:  "Schedule for Autum term 2023"
 date:   2023-09-18 10:22:35 +0100
 categories: meetings
 ---
+We'll meet nearly every week in term time normally at 15:00 in the Conference 
+Room. Meetings are open to all in the Department and will follow the evolving
+schedule below. The Conference Room in Earth Sciences can be found on O4 (turn right after
+you go through the doors to the office corridor). If you are willing to lead one of these
+sessions please let Andrew Walker know.
+
+**12/10/2023:** Introductions (please come prepared to tell us about yourself, and with ideas about
+what you could contribute to the meetings this term).
+
+**19/10/2023:** TBC
+
+**26/10/2023:** TBC
+
+**2/11/2023:** Loïc Lannelongue (Department of Public Health and Primary Care at the University of
+Cambridge) will tell us about his work to quantify and reduce the impact of computational science
+on climate.
+
+**9/11/2023:** TBC
+
+**16/11/2023:** Dan Gittins will tell us something about using the Pandas library for data analysis
+during his thesis work.
+
+**23/11/2023:** TBC (Andrew is away)
+
+**30/11/2023:** TBC
+
+**6-8/12/2023:** Essential Scientific Computing for Environmental Scientists 2. The first of six two
+and three day workshops funded by NERC and delivered alognside NOC and EPCC.
