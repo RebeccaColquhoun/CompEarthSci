@@ -21,7 +21,7 @@ what you could contribute to the meetings this term).
 Cambridge) will tell us about his work to quantify and reduce the impact of computational science
 on climate.
 
-**9/11/2023:** TBC
+**9/11/2023:** TBC **NB: in Seminar room 1**
 
 **16/11/2023:** Dan Gittins will tell us something about using the Pandas library for data analysis
 during his thesis work.
