@@ -13,15 +13,15 @@ sessions please let Andrew Walker know.
 **12/10/2023:** Introductions (please come prepared to tell us about yourself, and with ideas about
 what you could contribute to the meetings this term).
 
-**19/10/2023:** TBC
+**19/10/2023:** Andrew will say something about SSH tricks and the network - how to get onto a computer. 
 
 **26/10/2023:** Loïc Lannelongue (Department of Public Health and Primary Care at the University of
 Cambridge) will tell us about his work to quantify and reduce the impact of computational science
 on climate.
 
-**2/11/2023:** TBC
+**2/11/2023:** Hannah, Dan and others will tell us about their coding horror stories 
 
-**9/11/2023:** TBC **NB: in Seminar room 1**
+**9/11/2023:** Everybody will introduce their favourite tool, module or library **NB: in Seminar room 1**
 
 **16/11/2023:** Dan Gittins will tell us something about using the Pandas library for data analysis
 during his thesis work.
