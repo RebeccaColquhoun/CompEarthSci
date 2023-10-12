@@ -28,7 +28,7 @@ during his thesis work.
 
 **23/11/2023:** TBC (Andrew is away)
 
-**30/11/2023:** TBC
+**30/11/2023:** Andrew will say something about github as a tool for releasing software
 
 **6-8/12/2023:** Essential Scientific Computing for Environmental Scientists 2. The first of six two
 and three day workshops funded by NERC and delivered alognside NOC and EPCC.
