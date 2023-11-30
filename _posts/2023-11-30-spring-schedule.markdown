@@ -22,7 +22,7 @@ sessions please let Andrew Walker know.
 
 **22/2/2024:** No meeting (departmental committee)
 
-**29/2/2024:** Neural Processes - Samuel Madden
+**29/2/2024:** Neural Processes - Sam Scivier
 
 **7/3/2024:** Paraview for 3D visualisation - Franck Latallerie
 
