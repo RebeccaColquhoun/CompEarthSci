@@ -18,7 +18,7 @@ sessions please let Andrew Walker know.
 
 **8/2/2024:**
 
-**15/2/2024:**
+**15/2/2024:** _NB: in seminar room 1_
 
 **22/2/2024:** No meeting (departmental committee)
 
