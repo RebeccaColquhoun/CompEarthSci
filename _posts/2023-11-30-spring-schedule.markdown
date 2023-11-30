@@ -16,7 +16,7 @@ sessions please let Andrew Walker know.
 
 **1/2/2024:** Networking on the North Yorkshire Moors - Joseph Asplet
 
-**8/2/2024:** TBC
+**8/2/2024:** Optimal Transport - Alex Lipp
 
 **15/2/2024:** TBC _NB: in seminar room 1_
 
