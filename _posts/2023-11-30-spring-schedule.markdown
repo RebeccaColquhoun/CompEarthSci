@@ -10,7 +10,7 @@ schedule below. The Conference Room in Earth Sciences can be found on O4 (turn r
 you go through the doors to the office corridor). If you are willing to lead one of these
 sessions please let Andrew Walker know.
 
-**18/1/2024:** Code review activity - led by Andrew Walker
+**18/1/2024:** Code review activity - _please bring a laptop and code_ - led by Andrew Walker
 
 **25/1/2024:** Becoming a research software engineer - Matthew Bluteau (United Kingdom Atomic Energy Authority).
 
