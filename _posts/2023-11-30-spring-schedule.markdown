@@ -18,7 +18,7 @@ sessions please let Andrew Walker know.
 
 **8/2/2024:** Optimal Transport - Alex Lipp
 
-**15/2/2024:** TBC _NB: in seminar room 1_
+**15/2/2024:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) round two - _please bring a laptop and code_ **NB: in seminar room 1**
 
 **22/2/2024:** No meeting (departmental committee)
 
