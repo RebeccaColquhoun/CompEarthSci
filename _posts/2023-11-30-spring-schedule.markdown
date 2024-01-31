@@ -14,11 +14,11 @@ sessions please let Andrew Walker know.
 
 **25/1/2024:** Becoming a research software engineer - [Matthew Bluteau](https://bielsnohr.github.io/about/) (United Kingdom Atomic Energy Authority).
 
-**1/2/2024:** Networking on the North Yorkshire Moors - Joseph Asplet
+**1/2/2024:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) round two - _please bring a laptop and code_
 
 **8/2/2024:** Optimal Transport - Alex Lipp
 
-**15/2/2024:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) round two - _please bring a laptop and code_ **NB: in seminar room 1**
+**15/2/2024:** Networking on the North Yorkshire Moors - Joseph Asplet **NB: in seminar room 1**
 
 **22/2/2024:** No meeting (departmental committee)
 
