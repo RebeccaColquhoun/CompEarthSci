@@ -22,9 +22,9 @@ sessions please let Andrew Walker know.
 
 **22/2/2024:** No meeting (departmental committee)
 
-**29/2/2024:** Neural Processes - Sam Scivier
+**29/2/2024:** Paraview for 3D visualisation - Franck Latallerie
 
-**7/3/2024:** Paraview for 3D visualisation - Franck Latallerie
+**7/3/2024:** 'Cool tools': everybody will introduce their favourite tool, module or library - _please come with ideas_
 
 **13/3/2024 and 14/3/2024:** We'll be hosting a two day workshop "Essential Scientific Computing for Environmental Scientists" (intermediate level). 
 The registration form, along with course details and information about the other 7 courses can be found [here](https://forms.office.com/e/XmwiCpMK38).
