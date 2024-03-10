@@ -10,7 +10,7 @@ schedule below. The Conference Room in Earth Sciences can be found on O4 (turn r
 you go through the doors to the office corridor). If you are willing to lead one of these
 sessions please let Andrew Walker know.
 
-**25/4/2024:** TBC
+**25/4/2024:** Decorators in Python
 
 **2/5/2024:** No meeting (CW24)
 
@@ -22,6 +22,6 @@ sessions please let Andrew Walker know.
 
 **30/5/2024:** No meeting (Departmental Committee)
 
-**6/6/2024:**  We'll discuss the 1994 paper "[Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences](https://www.science.org/doi/10.1126/science.263.5147.641)" by Oreskes et al. - the meeting will be led by Alex Lipp and Adina Pusok
+**6/6/2024:** TBC
 
-**13/6/2024:** TBC
+**13/6/2024:**  We'll discuss the 1994 paper "[Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences](https://www.science.org/doi/10.1126/science.263.5147.641)" by Oreskes et al. - the meeting will be led by Alex Lipp and Adina Pusok
