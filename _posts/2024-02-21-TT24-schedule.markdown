@@ -10,7 +10,7 @@ schedule below. The Conference Room in Earth Sciences can be found on O4 (turn r
 you go through the doors to the office corridor). If you are willing to lead one of these
 sessions please let Andrew Walker know.
 
-**25/4/2024:** Decorators in Python
+**25/4/2024:** [Decorators in Python](https://mybinder.org/v2/gh/CompEarthSci/CompEarthSci/HEAD?labpath=https%3A%2F%2Fgithub.com%2FCompEarthSci%2FCompEarthSci%2Fblob%2Fmain%2Fdecorators_example%2Fdecorators.ipynb) - Andrew Walker
 
 **2/5/2024:** No meeting (CW24)
 
