@@ -16,12 +16,12 @@ sessions please let Andrew Walker know.
 
 **9/5/2024:** Neural Processes - Sam Scivier
 
-**16/5/2024:** TBC
+**16/5/2024:** Steps to releasing software - Andrew Walker
 
-**23/5/2024:** TBC **NB: meeting in seminar room 1**
+**23/5/2024:** Reflections on teaching programming - Hannah Sanderson **NB: meeting in seminar room 1**
 
 **30/5/2024:** No meeting (Departmental Committee)
 
-**6/6/2024:** TBC
+**6/6/2024:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) activity - _please bring a laptop and code you are willing to discuss in small groups_
 
 **13/6/2024:**  We'll discuss the 1994 paper "[Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences](https://www.science.org/doi/10.1126/science.263.5147.641)" by Oreskes et al. - the meeting will be led by Alex Lipp and Adina Pusok
