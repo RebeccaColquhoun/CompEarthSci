@@ -14,7 +14,7 @@ sessions please let Andrew Walker know.
 
 **2/5/2024:** No meeting (CW24)
 
-**9/5/2024:** Neural Processes - Sam Scivier
+**9/5/2024:** [Neural Processes](https://compearthsci.github.io/meetings/2024/05/10/neural-processes.html) - Sam Scivier
 
 **16/5/2024:** Steps to releasing software - Andrew Walker
 
