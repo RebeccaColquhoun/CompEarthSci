@@ -16,7 +16,7 @@ sessions please let Andrew Walker know.
 
 **9/5/2024:** [Neural Processes](https://compearthsci.github.io/meetings/2024/05/10/neural-processes.html) - Sam Scivier
 
-**16/5/2024:** Steps to releasing software - Andrew Walker
+**16/5/2024:** [Steps to releasing software](https://compearthsci.github.io/meetings/2024/05/16/software_release.html) - Andrew Walker
 
 **23/5/2024:** Reflections on teaching programming - Hannah Sanderson **NB: meeting in seminar room 1**
 
