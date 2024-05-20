@@ -46,4 +46,4 @@ One principle we can apply in approaching the process of releasing software is t
 * It can help to get somebody else to look at your code - maybe in one of our code review sessions.
 * If you want to gain users or collaborators, adding good documentation can help. This could be a simple readme file, or it could be much more extensive. This [blog post](https://www.software.ac.uk/blog/what-are-best-practices-research-software-documentation) has some good ideas and I find these four areas of  [tutorials, how-to guides, technical reference and explanation](https://docs.divio.com/documentation-system/) helpful.
 
-We could spend whole sessions discussing many of these ideas in more detail, and I'm happy to discuss individual cases as needed.
+We could spend whole sessions discussing many of these ideas in more detail, and I'm happy to discuss individual cases as needed. The [JOSS checklist](https://joss.readthedocs.io/en/latest/review_checklist.html) is a useful guide.
