@@ -28,3 +28,4 @@ Annother approach is to think about the larger scale. What is missing from the c
 * [Code Review as a Simple Trick to Enhance Reproducibility, Accelerate Learning, and Improve the Quality of Your Team’s Research](https://academic.oup.com/aje/article/190/10/2172/6218064) - Vable et al. (2021) American Journal of Epidemiology
 * [Implementing code review in the scientific workflow: Insights from ecology and evolutionary biology](https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.14230) - Ivimey-Cook et al. (2023) Journal of Evolutionary Biology
 * [Review checklist from JOSS](https://joss.readthedocs.io/en/latest/review_checklist.html)
+* It is very common to feel anxious about giving and receiving code reviews. This [workbook](https://developer-success-lab.gitbook.io) outlines some of the reasons and mitigate for this.
