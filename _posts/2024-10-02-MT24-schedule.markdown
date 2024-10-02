@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Schedule for Michaelmas term 2024"
+date:   2024-10-02 10:00:00 +0100
+categories: meetings
+---
+We'll meet nearly every week in term time normally at 15:00 in the Conference 
+Room. Meetings are open to all in the Department and will follow the schedule 
+below that will be filled out early in term.
+The Conference Room in Earth Sciences can be found on O4 (turn right after
+you go through the doors to the office corridor). If you are willing to lead one of these
+sessions please let Andrew Walker know.
+
+**17/10/2024:** No meeting
+
+**24/10/2024:** Introductions and plans. Please come prepared to say a few words about yourself and your work - Andrew Walker
+
+**31/10/2024:** TBC (Andrew away)
+
+**7/11/2024:** Being an (embedded) research software engineer - Tom Russell and Frederick Thomas (School of Geography and the Environment, Oxford)
+
+**14/11/2024:** TBC
+
+**21/11/2024:** No meeting (Departmental Committee)
+
+**27/11/2024:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) activity - _please bring a laptop and code you are willing to discuss in small groups_
+
+**5/8/2024:** TBC  
