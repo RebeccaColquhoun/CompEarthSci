@@ -15,14 +15,14 @@ sessions please let Andrew Walker know.
 
 **24/10/2024:** Introductions and plans. Please come prepared to say a few words about yourself and your work - Andrew Walker
 
-**31/10/2024:** TBC (Andrew away)
+**31/10/2024:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) activity _please bring a laptop and code you are willing to discuss in small groups_ - Rebecca Colquhoun
 
 **7/11/2024:** Being an (embedded) research software engineer - Tom Russell and Frederick Thomas (School of Geography and the Environment, Oxford)
 
-**14/11/2024:** TBC
+**14/11/2024:** Teaching using live coding and the expert mindset - Rebecca Colquhoun and Hannah Sanderson 
 
 **21/11/2024:** No meeting (Departmental Committee)
 
-**27/11/2024:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) activity - _please bring a laptop and code you are willing to discuss in small groups_
+**28/11/2024:** TBC
 
-**5/8/2024:** TBC  
+**5/12/2024:** TBC  
