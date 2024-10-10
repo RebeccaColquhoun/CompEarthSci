@@ -25,4 +25,12 @@ sessions please let Andrew Walker know.
 
 **28/11/2024:** TBC
 
-**5/12/2024:** TBC  
+**5/12/2024:** TBC 
+
+## Training
+
+As well as our weekly meetings, there is a variety of relevant training provided across the University during term. This includes
+
+* Courses offered by the Advanced Research Computing team (an introductory presentation, online training aimed at new users, a course on the effective use of HPC clusters, and drop in consultation sessions). See [https://arc.ox.ac.uk/training](https://arc.ox.ac.uk/training) for more information and details of how to book. These courses are highly recommended if you are (or intend to be) a new user of the ARC services.
+* Reproducible Research Oxford host a number of events including a two-day Software Carpentries workshop (from 11th November). Further details can be found at on [their webpages](https://rr.ox.ac.uk/event/learn-reproducible-programming-11-13-nov-2024).
+
